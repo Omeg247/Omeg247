@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on IT, python programming and Cybersecurity
 - 📫 How to reach me: omeg247@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I know you're reading this in your mind
 
 <!---
