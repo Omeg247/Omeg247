@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Omeg
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on IT, python programming and Cybersecurity
+- 💞️ I’m looking to collaborate on IT, Python programming, Cybersecurity, Security Research, Ethical Hacking......
 - 📫 How to reach me: omeg247@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I know you're reading this in your mind
+- ⚡ Fun fact: We can work on something😄
 
 <!---
 Omeg247/Omeg247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
